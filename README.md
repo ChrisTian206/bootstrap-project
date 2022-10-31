@@ -12,5 +12,4 @@
 <img src ="/imgs/Mobile_View.png">
 <img src ="/imgs/dropdown_menu.png">
 
-<b>Project provided by Udemy The Web Developer Boostcamp 2022.<b><br>
-<b>Bootstrap Project: Museum of Candy<b> 
+<b>*Project provided by Udemy The Web Developer Boostcamp 2022.<b><br>
